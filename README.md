@@ -4,6 +4,13 @@
 
 The Image Encryption project is designed to provide a simple yet effective method for encrypting and decrypting image files using pixel manipulation. This tool uses a straightforward XOR-based algorithm to ensure image data remains confidential and protected from unauthorized access. The project handles PNG format images to avoid issues related to lossy compression found in JPEGs.
 
+
+<p float="left">
+  <img src="encrypted_Shirt.png" width="300" />
+  <img src="decrypted_Shirt.png" width="300" />
+</p>
+
+
 ## Features
 
 - **Simple Encryption and Decryption**: Uses an XOR-based algorithm to encrypt and decrypt image data.
